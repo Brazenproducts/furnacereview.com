@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://furnacereview.com/sitemap.xml
