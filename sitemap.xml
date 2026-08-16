@@ -1,24 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://furnacereview.com/</loc>
-    <lastmod>2026-07-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://furnacereview.com/furnacereview.com/privacy</loc>
-    <lastmod>2026-07-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url><loc>https://furnacereview.com/furnacereview-market-2026.html</loc><lastmod>2026-07-13</lastmod></url>
-  <url><loc>https://furnacereview.com/furnacereview-compared-2026.html</loc><lastmod>2026-07-14</lastmod></url>
-  <url><loc>https://furnacereview.com/furnacereview-practical-guide-2026.html</loc><lastmod>2026-07-14</lastmod></url>
-  <url><loc>https://furnacereview.com/furnacereview-buyers-handbook-2026.html</loc><lastmod>2026-07-17</lastmod></url>
-  <url><loc>https://furnacereview.com/furnacereview-what-buyers-need-2026.html</loc><lastmod>2026-07-20</lastmod></url>
-  <url><loc>https://furnacereview.com/truth-about-furnacereview-2026.html</loc><lastmod>2026-07-21</lastmod></url>
-  <url><loc>https://furnacereview.com/furnacereview-guide-2026.html</loc><lastmod>2026-07-23</lastmod></url>
-  <url><loc>https://furnacereview.com/best-furnacereview-2026.html</loc><lastmod>2026-08-07</lastmod></url>
-  <url><loc>https://furnacereview.com/no-bs-furnacereview-guide-2026.html</loc><lastmod>2026-08-13</lastmod></url>
+  <url><loc>https://furnacereview.com/best-furnacereview-2026.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://furnacereview.com/furnacereview-buyers-handbook-2026.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://furnacereview.com/furnacereview-compared-2026.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://furnacereview.com/furnacereview-guide-2026.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://furnacereview.com/furnacereview-market-2026.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://furnacereview.com/furnacereview-practical-guide-2026.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://furnacereview.com/furnacereview-what-buyers-need-2026.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://furnacereview.com/no-bs-furnacereview-guide-2026.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://furnacereview.com/privacy.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://furnacereview.com/truth-about-furnacereview-2026.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
 </urlset>
